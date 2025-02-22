@@ -59,17 +59,6 @@ Ensure you have the following installed:
    python main.py
    ```
 
-## 📂 Project Structure
-
-```
-/Navigation_Robot
-│── /Models         # 3D robot and obstacle URDF files
-│── /Scripts        # Python scripts for navigation and control
-│── /Sensors        # Lidar sensor processing
-│── main.py         # Entry point for simulation
-│── README.md       # Project documentation
-└── requirements.txt # Dependencies
-```
 
 ## 🛠️ Algorithm & Implementation
 
